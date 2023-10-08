@@ -1,0 +1,58 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Love</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', sans-serif;
+            text-align: center;
+            background-color: #f7f7f7;
+        }
+        header {
+            background-color: #ff69b4;
+            padding: 20px;
+            animation: blink 1.5s infinite;
+        }
+        h1 {
+            font-size: 36px;
+            color: white;
+        }
+        main {
+            padding: 20px;
+        }
+        p {
+            font-size: 24px;
+            color: #333;
+            line-height: 1.5;
+        }
+        @keyframes blink {
+            0%, 100% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Love</h1>
+    </header>
+    <main>
+        <p>Dear Siddhant,</p>
+        <p>I want you to know how much you mean to me.</p>
+        <p>You are my everything, my heart, my soul.</p>
+        <p>I love you more than words can ever express.</p>
+        <p>With you, I've found my forever home.</p>
+        <p>And I know everything feels so helpless right now, but there's one thing that WE do best babe, and that is loving each other.</p>
+        <p>Even when one of us is suffering, the other is always there, and I understand it has become so draining for you.</p>
+        <p>But I want you to know that I'm crazy, hopelessly in love with you forever.</p>
+        <p>Consider this project a little token of effort, this and a hell lot more I'm willing to put in for us because you deserve that, babe. You are worth all the effort in the world and I promise we can get through this.</p>
+    </main>
+    <footer>
+        <p>Love, Vanya</p>
+    </footer>
+</body>
+</html>
